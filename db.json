@@ -1,0 +1,262 @@
+{
+    "categories":[
+        {
+            "id": 1,
+            "categoryName": "Yeni Ürünler",
+            "image": "https://market-product-images-cdn.getirapi.com/category/e8b802e6-7987-486f-bf53-a9720c698a98.jpg"
+            
+          },
+          {
+            "id": 2,
+            "categoryName": "Su İçecek",
+            "image":"https://market-product-images-cdn.getirapi.com/category/f66f92ea-f680-4dd4-808b-8f8a71709a86.jpeg"
+            
+          },
+          {
+            "id": 3,
+            "categoryName": "Meyve ve Sebze",
+            "image":"https://market-product-images-cdn.getirapi.com/category/d43a0396-b588-4666-ac43-af4b3159fee2.jpeg"
+            
+          },
+          {
+            "id": 4,
+            "categoryName": "Fırından",
+            "image":"https://market-product-images-cdn.getirapi.com/category/6814548a-24f2-4ba2-9762-7ca3e96a3d40.jpeg"
+          },
+          {
+            "id": 5,
+            "categoryName": "Temel Gıda",
+            "image":"https://market-product-images-cdn.getirapi.com/category/4c2530e6-d2d2-4a77-96a0-917f16165f57.jpeg"
+          },
+          {
+            "id": 6,
+            "categoryName": "Atıştırmalık",
+            "image":"https://market-product-images-cdn.getirapi.com/category/8393d053-6478-410a-a234-d1a914185b35.jpeg"
+          },
+          {
+            "id": 7,
+            "categoryName": "Dondurma",
+            "image":"https://market-product-images-cdn.getirapi.com/category/0f329100-f339-4503-bf56-095ab4c11c98.jpeg"
+          },
+          {
+            "id": 8,
+            "categoryName": "Süt Ürünleri",
+            "image":"https://market-product-images-cdn.getirapi.com/category/afee33f9-93fe-4b87-8094-6e5c7f13c064.jpeg"
+          },
+          {
+            "id": 9,
+            "categoryName": "Kahvaltılık",
+            "image":"https://market-product-images-cdn.getirapi.com/category/35640646-a603-4b9a-96db-96918025fb61.jpeg"
+          },
+          {
+            "id": 10,
+            "categoryName": "Yiyecek",
+            "image":"https://market-product-images-cdn.getirapi.com/category/b01619f2-e12e-4777-85a2-5727abb62d51.jpeg"
+          },
+          {
+            "id": 11,
+            "categoryName": "Fit - Form",
+            "image":"https://market-product-images-cdn.getirapi.com/category/c594be17-998d-475e-91a5-89924798a27d.jpeg"
+          },
+          {
+            "id": 12,
+            "categoryName": "Kişisel Bakım",
+            "image":"https://market-product-images-cdn.getirapi.com/category/d7b76064-6334-43a4-aafe-ace887ec2da6.jpeg"
+          },
+          {
+            "id": 13,
+            "categoryName": "Ev Bakım",
+            "image":"https://market-product-images-cdn.getirapi.com/category/29bcb34e-ae77-46f8-b27c-d36e50275709.jpeg"
+          },
+          {
+            "id": 14,
+            "categoryName": "Ev - Yaşam",
+            "image":"https://market-product-images-cdn.getirapi.com/category/d737c0bd-538c-486c-9485-46aff62856d1.jpeg"
+          },
+          {
+            "id": 15,
+            "categoryName": "Teknoloji",
+            "image":"https://market-product-images-cdn.getirapi.com/category/d6e1fc47-6dbe-4be0-9e21-8b3a3f9cfecd.jpeg"
+          },
+          {
+            "id": 16,
+            "categoryName": "Evcil Hayvan",
+            "image":"https://market-product-images-cdn.getirapi.com/category/907cbf21-00b7-4f94-b257-9fd8b104cf02.jpeg"
+          },
+          {
+            "id": 17,
+            "categoryName": "Bebek",
+            "image":"https://market-product-images-cdn.getirapi.com/category/517efd09-95b6-466a-980e-55db579ebddc.jpeg"
+          },
+          {
+            "id": 18,
+            "categoryName": "Cinsel Yaşam",
+            "image":"https://market-product-images-cdn.getirapi.com/category/34e1cf54-bf96-498b-ba55-680b960cfcfc.jpeg"
+          }
+
+    ],
+    "products":[
+        {
+            "id": 1,
+            "categoryId": 1,
+            "productName": "Avokado",
+            "quantityPerUnit": "450gr",
+            "unitPrice": "29,90",
+            "image": "https://market-product-images-cdn.getirapi.com/category/e8b802e6-7987-486f-bf53-a9720c698a98.jpg"
+          },  
+          {
+            "id": 2,
+            "categoryId": 2,
+            "productName": "Su",
+            "quantityPerUnit": "6 x 1,5 L ",
+            "unitPrice": "28,50",
+            "image":"https://market-product-images-cdn.getirapi.com/category/f66f92ea-f680-4dd4-808b-8f8a71709a86.jpeg"
+            
+          }, 
+          {
+            "id": 3,
+            "categoryId": 3,
+            "productName": "Muz",
+            "quantityPerUnit": "600gr",
+            "unitPrice": "25,90",
+            "image":"https://market-product-images-cdn.getirapi.com/category/d43a0396-b588-4666-ac43-af4b3159fee2.jpeg"
+            
+          }, 
+          {
+            "id": 4,
+            "categoryId": 4,
+            "productName": "Simit",
+            "quantityPerUnit": "100gr",
+            "unitPrice": "3,27",
+            "image":"https://market-product-images-cdn.getirapi.com/category/6814548a-24f2-4ba2-9762-7ca3e96a3d40.jpeg"
+            
+          }, 
+          {
+            "id": 5,
+            "categoryId": 5,
+            "productName": "Makarna",
+            "quantityPerUnit": "500gr",
+            "unitPrice": "6,45",
+            "image":"https://market-product-images-cdn.getirapi.com/category/4c2530e6-d2d2-4a77-96a0-917f16165f57.jpeg"
+            
+          }, 
+          {
+            "id": 6,
+            "categoryId": 6,
+            "productName": "Pringles",
+            "quantityPerUnit": "165gr",
+            "unitPrice": "25,60",
+            "image":"https://market-product-images-cdn.getirapi.com/category/8393d053-6478-410a-a234-d1a914185b35.jpeg"
+            
+          },
+          {
+            "id": 7,
+            "categoryId": 7,
+            "productName": "Magnum",
+            "quantityPerUnit": "100ml",
+            "unitPrice": "12",
+            "image":"https://market-product-images-cdn.getirapi.com/category/0f329100-f339-4503-bf56-095ab4c11c98.jpeg"
+            
+          }, 
+          {
+            "id": 8,
+            "categoryId": 8,
+            "productName": "Süt",
+            "quantityPerUnit": "1 L",
+            "unitPrice": "19,15",
+            "image":"https://market-product-images-cdn.getirapi.com/category/afee33f9-93fe-4b87-8094-6e5c7f13c064.jpeg"
+            
+          }, 
+          {
+            "id":9,
+            "categoryId": 9,
+            "productName": "Yumurta",
+            "quantityPerUnit": "10 Adet",
+            "unitPrice": "14,30",
+            "image":"https://market-product-images-cdn.getirapi.com/category/35640646-a603-4b9a-96db-96918025fb61.jpeg"
+          }, 
+          {
+            "id": 10,
+            "categoryId": 10,
+            "productName": "Bulgur Pilavı",
+            "quantityPerUnit": "250gr",
+            "unitPrice": "12,90",
+            "image":"https://market-product-images-cdn.getirapi.com/category/b01619f2-e12e-4777-85a2-5727abb62d51.jpeg"
+            
+          }, 
+          {
+            "id": 11,
+            "categoryId": 11,
+            "productName": "Tadım Bar",
+            "quantityPerUnit": "30gr",
+            "unitPrice": "3,30",
+            "image":"https://market-product-images-cdn.getirapi.com/category/c594be17-998d-475e-91a5-89924798a27d.jpeg"
+            
+          }, 
+          {
+            "id": 12,
+            "categoryId": 12,
+            "productName": "Diş Macunu",
+            "quantityPerUnit": "75 ml",
+            "unitPrice": "67,70",
+            "image":"https://market-product-images-cdn.getirapi.com/category/d7b76064-6334-43a4-aafe-ace887ec2da6.jpeg"
+            
+          }, 
+          {
+            "id": 13,
+            "categoryId": 13,
+            "productName": "Domestos",
+            "quantityPerUnit": "750gr",
+            "unitPrice": "14,95",
+            "image":"https://market-product-images-cdn.getirapi.com/category/29bcb34e-ae77-46f8-b27c-d36e50275709.jpeg"
+            
+          }, 
+          {
+            "id": 14,
+            "categoryId": 14,
+            "productName": "Gazete",
+            "quantityPerUnit": "1 adet",
+            "unitPrice": "3,50",
+            "image":"https://market-product-images-cdn.getirapi.com/category/d737c0bd-538c-486c-9485-46aff62856d1.jpeg"
+            
+          }, 
+          {
+            "id": 15,
+            "categoryId": 15,
+            "productName": "Şarj Kablosu",
+            "quantityPerUnit": "30cm",
+            "unitPrice": "27,45",
+            "image":"https://market-product-images-cdn.getirapi.com/category/d6e1fc47-6dbe-4be0-9e21-8b3a3f9cfecd.jpeg"
+            
+          }, 
+          {
+            "id": 16,
+            "categoryId": 16,
+            "productName": "Kedi maması",
+            "quantityPerUnit": "100gr",
+            "unitPrice": "9,75",
+            "image":"https://market-product-images-cdn.getirapi.com/category/907cbf21-00b7-4f94-b257-9fd8b104cf02.jpeg"
+            
+          }, 
+          {
+            "id": 17,
+            "categoryId": 17,
+            "productName": "Bebek Bezi",
+            "quantityPerUnit": "42 adet",
+            "unitPrice": "59,90",
+            "image":"https://market-product-images-cdn.getirapi.com/category/517efd09-95b6-466a-980e-55db579ebddc.jpeg"
+            
+          }, 
+          {
+            "id": 18,
+            "categoryId": 18,
+            "productName": "Durex ",
+            "quantityPerUnit": "10 adet",
+            "unitPrice": "107,90",
+            "image":"https://market-product-images-cdn.getirapi.com/category/34e1cf54-bf96-498b-ba55-680b960cfcfc.jpeg"
+            
+          }
+       
+          
+    ]
+}
