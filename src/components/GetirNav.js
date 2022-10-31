@@ -10,7 +10,6 @@ export default class getirNav extends Component {
             <Col xs="3">
               <button id="getirnav-button">
                 <a href="/">
-                  
                   <img
                     className="getirnav-style"
                     alt=""
