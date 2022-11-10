@@ -14,6 +14,7 @@ import ProductList from "./components/ProductList.js";
 import CategoryList from "./components/CategoryList.js";
 import CardList from "./components/CardList.js";
 
+
 export default class App extends Component {
   state = {
     currentCategory: "",
@@ -41,7 +42,6 @@ export default class App extends Component {
     fetch("http://localhost:3000/categories")
       .then((response) => response.json())
       .then((data) => this.setState({ categories: data }));
-    console.log(this);
   };
 
   getProducts = (categoryId) => {
@@ -87,6 +87,7 @@ export default class App extends Component {
           countries={this.state.countries}
           changeCountries={this.changeCountries}
         />
+     
         <Routes>
           <Route
             exact

@@ -163,7 +163,10 @@ border-color: #5d3ebc;
  
   }
 
-  
+  .puffloader{
+    z-index: 9999;
+    position: absolute;
+  }
 
   .button-style:hover{
     background-color: transparent;
