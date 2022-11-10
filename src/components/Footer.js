@@ -160,13 +160,12 @@ export default class Footer extends Component {
                   </a>
                 </li>
                 <li className="ms-3">
-                <button id="footer-dil">
-                <FaGlobe className="icons2" />
-                Türkçe (TR)
-              </button>
+                  <button id="footer-dil">
+                    <FaGlobe className="icons2" />
+                    Türkçe (TR)
+                  </button>
                 </li>
               </ul>
-             
             </div>
           </footer>
         </div>
